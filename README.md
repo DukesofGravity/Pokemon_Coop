@@ -1,5 +1,5 @@
-Pokemon_Coop
+Pokemon_Platformer
 ============
 
-A Coop Pokemon game
+A Platformer Pokemon game
 Created by Amatuon, Drazucan, and Trinyan
